@@ -16,3 +16,7 @@ We use data from the Atlas of Economic Complexity from the Growth Lab at Harvard
 **Figure 2: Food Exports**
 ![Screenshot 2023-08-14 at 5 31 10 AM](https://github.com/LNshuti/food-security/assets/13305262/6eeb01fa-5a16-4fd1-aba3-b514cd6ce6b0)
 
+**Figure 3: Fertilizer Exports**
+![image](https://github.com/LNshuti/food-security/assets/13305262/2d6cbe4e-5c40-4719-8883-d0cf682ef281)
+
+
